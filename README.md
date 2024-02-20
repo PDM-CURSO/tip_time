@@ -1,16 +1,22 @@
-# tip_time
+# App Crypto Look
 
-A new Flutter project.
+App para practicar:
+ - El uso de Radio buttons
+ - Generar listado con .map
+ - Iterar entries de un mapa
+ - Switch y Radio 
+ - onChanged y value
+ - setState(){} para actualizar estado de widgets
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Recuerda que despues de clonar el proyecto, abrir una terminal dentro de la carpeta del proyecto y ejecutar el comando:
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+flutter packages get
+``` 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img src="screenshot/Capture0.png" width="240" height="480" />

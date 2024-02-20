@@ -12,6 +12,10 @@ class MyApp extends StatelessWidget {
       title: 'TipTime App',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
+        appBarTheme: AppBarTheme(
+          backgroundColor: Colors.green,
+          titleTextStyle: TextStyle(color: Colors.white),
+        ),
       ),
       home: HomePage(),
     );
